@@ -120,6 +120,7 @@ a {
   transition: 0.5s;
   margin-left: -400px;
   cursor: pointer;
+  object-fit: cover;
 }
 
 .dot {
@@ -128,7 +129,7 @@ a {
   height: 13px;
   width: 13px;
   top: 158px;
-  left: 128px;
+  left: 126px;
   z-index: 9;
   border-radius: 100%;
   transition: 0.5s;
