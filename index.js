@@ -14,7 +14,7 @@ document.addEventListener('click', () => {
 
 let skills = ``;
 var skills_list = {"C++": 40, "CSS": 60, "HTML5": 50, "Javascript": 50,
-                    "C#": 30, "Python3": 60, "Unity": 40, "LaTeX": 40, "Flutter": 40}
+                    "C#": 30, "Python3": 60, "Unity": 40, "LaTeX": 40, "Flutter": 40, "React": 60}
 
 for(var skill in skills_list) {
     skills += `<div class="d-inline-block card mt-4 dark-bg h-20 ml-4" style="width: 9rem;">
